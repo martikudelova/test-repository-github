@@ -2,3 +2,6 @@
 Toto je testovaci repositar
 
 test
+
+
+test druhy commit
