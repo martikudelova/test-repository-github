@@ -3,6 +3,9 @@ Toto je testovaci repositar
 
 
 Klonování z GitHubu
+1. vytvoř složku u sebe v dokumentech
+2. ve VSCodium otevři tuto složku a zkopíruj k ní v terminálu cestu
+3. git clone https://github.com/martikudelova/test-repository-github.git (https code z githubu)
 
 
 Commitování změn
